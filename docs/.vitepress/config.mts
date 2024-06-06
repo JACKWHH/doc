@@ -13,6 +13,7 @@ export default defineConfig({
     description: "一个富含各类编程知识的文档库",
     lastUpdated: true,
     lang: "zh-cn",
+    base: "/docs/",
     head: [
         ['link', {rel: 'icon', href: '/favicon.ico', type: 'image/x-icon'}]
     ],
