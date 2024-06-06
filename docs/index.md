@@ -33,13 +33,4 @@ features:
     title: 免费学习
     details: 知识库的所有内容都是免费的，你可以随时阅读和学习。
 ---
-<div style="display: flex;justify-content: space-between;flex-wrap: wrap;">
-<img src="../IMG_7834.GIF">
-<img src="../IMG_7834.GIF">
-<img src="../IMG_7834.GIF">
-<img src="../IMG_7834.GIF">
-<img src="../IMG_7834.GIF">
-<img src="../IMG_7834.GIF">
-<img src="../IMG_7834.GIF">
-<img src="../IMG_7834.GIF">
-</div>
+
